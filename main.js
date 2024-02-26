@@ -26,22 +26,22 @@ function mousemoveHandler(event) {
 ctx.fillStyle = "rgb(255, 245, 59)";
 curves(0, 0, 150, 5, "fill");
 
-// Shirt Design
-ctx.fillStyle = "rgb(237, 82, 9)";
-ctx.strokeStyle = "rgb(237, 82, 9)";
+// // Shirt Design
+// ctx.fillStyle = "rgb(237, 82, 9)";
+// ctx.strokeStyle = "rgb(237, 82, 9)";
 
-designCirc(260, 519, 5, "fill");
-designCirc(320, 534, 5, "fill");
-designCirc(347, 515, 10, "stroke");
-designCirc(310, 574, 5, "fill");
-designCirc(233, 590, 8, "stroke");
-designCirc(252, 559, 5, "fill");
-designCirc(290, 550, 3, "fill");
-designCirc(347, 578, 8, "fill");
-designCirc(285, 581, 6, "stroke");
-designCirc(285, 519, 5, "stroke");
-designCirc(346, 553, 5, "stroke");
-designCirc(252, 559, 5, "fill");
+// designCirc(260, 519, 5, "fill");
+// designCirc(320, 534, 5, "fill");
+// designCirc(347, 515, 10, "stroke");
+// designCirc(310, 574, 5, "fill");
+// designCirc(233, 590, 8, "stroke");
+// designCirc(252, 559, 5, "fill");
+// designCirc(290, 550, 3, "fill");
+// designCirc(347, 578, 8, "fill");
+// designCirc(285, 581, 6, "stroke");
+// designCirc(285, 519, 5, "stroke");
+// designCirc(346, 553, 5, "stroke");
+// designCirc(252, 559, 5, "fill");
 
 // Rectangle Behind Head for Ears
 ctx.fillStyle = "rgb(100, 100, 100)";
